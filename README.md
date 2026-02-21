@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/modkavartini/catppuccin/main/assets/compositeFull.png"/>
+	<img src="https://raw.githubusercontent.com/moaz-ahmed/catppuccin-aimp/main/assets/green.png"/>
 
 </p>
 
