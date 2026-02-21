@@ -28,9 +28,15 @@ substitute="0":"m","1":"e"
 ; https://www.latlong.net/
 ; https://www.mapcoordinates.net
 
+<<<<<<< HEAD
+InputSearch=10th of Ramadan
+Latitude=30.315449
+Longitude=31.739277
+=======
 InputSearch=ohio
 Latitude=9.599438
 Longitude=76.553999
+>>>>>>> origin/main
 
 ;Center of the US
 ;Latitude=39.50

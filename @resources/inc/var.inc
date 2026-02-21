@@ -5,7 +5,11 @@
 [variables]
 @include=#@#inc\flavors.inc
 
+<<<<<<< HEAD
+accent=8
+=======
 accent=3
+>>>>>>> origin/main
 ;0-13
 ;rosewater, flamingo, pink, mauve, red, maroon, peach, yellow, green, teal, sky, sapphire, blue, lavender
 
@@ -34,7 +38,11 @@ edgePadding=20
 yPadding=20
 bWidth=(#workAreaWidth#-(#xPadding#*2))
 bHeight=60
+<<<<<<< HEAD
+reservedSpace=59
+=======
 reservedSpace=99
+>>>>>>> origin/main
 
 ;dynamic vars, do not change
 reservedAt=TOP
@@ -45,15 +53,21 @@ iconGap=7
 spaces=\s
 
 sensitivity=35
+<<<<<<< HEAD
+=======
 ;(35+(20*((100-[mVolumeDisp])/100)))
 ;adaptive sensitivity???
+>>>>>>> origin/main
 barWidth=8
 maxBarHeight=(#bHeight#/3)
 ;if you add -ve to this value, the vis will be inverted :)
 minHeight=0
 barYPadding=#maxBarHeight#
 bGap=1
+<<<<<<< HEAD
+=======
 centeredBars=0
+>>>>>>> origin/main
 
 accuracy=4
 FPS=60
@@ -61,13 +75,19 @@ visSmooth=10
 avgSize=(#visSmooth#/4)
 visMultiplier=1.0
 
+<<<<<<< HEAD
+=======
 monIndex=1
+>>>>>>> origin/main
 appGap=15
 popupGap=10
 childGap=#popupGap#
 iStroke=4
 hStroke=-4
+<<<<<<< HEAD
+=======
 petalHStroke=-4
+>>>>>>> origin/main
 mPadding=10
 menewwBg=0
 invertBg=0
@@ -129,21 +149,54 @@ useImperial=0
 menuType=1
 loadAnims=1
 dNameType=1
+<<<<<<< HEAD
+useDiscord=0
+=======
 useDiscord=1
+>>>>>>> origin/main
 pinnedApps=1
 centerApps=1
 replaceWin=0
 hideTaskbar=0
+<<<<<<< HEAD
+pacMode=0
+=======
 pacMode=1
+>>>>>>> origin/main
 rSpace=0
 tFormat=0
 AMPM=0
 td=0
+<<<<<<< HEAD
+wifiName=0
+=======
 wifiName=1
+>>>>>>> origin/main
 iconHide=1
 titleS=1
 tPopup=1
 monStart=1
+<<<<<<< HEAD
+shadow=1
+
+appsDisp=1
+mediaDisp=1
+visDisp=1
+weatherDisp=1
+wifiDisp=1
+brightDisp=0
+volumeDisp=0
+batteryDisp=1
+cpuDisp=1
+ramDisp=1
+
+dispSum=([#appsDisp]+[#mediaDisp]+[#visDisp])
+
+pinIgnore=none|none
+player=spotify|youtube|vlc
+nullmTitle0=Audio Playing
+nullmArtist=Lorem
+=======
 shadow=0
 
 appsDisp=0
@@ -163,9 +216,13 @@ pinIgnore=none|none
 player=spotify|youtube
 nullmTitle0=in my h3ad
 nullmArtist=the voices
+>>>>>>> origin/main
 tAS=:\s
 
 25.12=merry christmas!
 1.1=happy new year!
 31.12=new year's eve
+<<<<<<< HEAD
+=======
 [#edit]=[#[#edit]]
+>>>>>>> origin/main

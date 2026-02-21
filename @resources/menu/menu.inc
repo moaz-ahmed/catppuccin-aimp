@@ -1,7 +1,10 @@
+<<<<<<< HEAD
+=======
 [rainmeter]
 contexttitle=open settings
 contextaction=[!activateconfig "#rootConfig#\settings"]
 
+>>>>>>> origin/main
 [variables]
 
 shutdownC=#color4#
@@ -13,8 +16,12 @@ monitorC=#color7#
 
 shutdownA=["#@#addons\nircmd.exe" exitwin shutdown]
 rebootA=["#@#addons\nircmd.exe" exitwin reboot]
+<<<<<<< HEAD
+sleepA=["#@#addons\nircmd.exe" standby]
+=======
 sleepA=["#@#addons\nircmd.exe" hibernate]
 ;["#@#addons\nircmd.exe" standby]
+>>>>>>> origin/main
 logoffA=["#@#addons\nircmd.exe" exitwin logoff]
 lockA=["#@#addons\nircmd.exe" lockws]
 monitorA=[!commandmeasure screenOff "run"]

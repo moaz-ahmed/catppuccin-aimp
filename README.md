@@ -1,6 +1,35 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+<<<<<<< HEAD
+	catppuccin for rainmeter
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" alt="catppuccin palette" width="400" />
+</p>
+
+<h3 align="center">
+	a set of skins made using the catppuccin color scheme
+</h3>
+
+## changes in this fork
+
+- Weather now works (changed the API key) 
+
+- Changed `WebNowPlaying-Redux` to rainmeter's native `NowPlaying` plugin as it was causing issues with detection 
+- Set the `NowPlaying` pluging to detect AIMP input only. This can be easily changed from the `bar.ini` file; just look up `NowPlaying`. 
+- Set the media Player to only show the track name , no artist name. 
+- Changed a punch of visual stuff to make more to my liking too 
+
+
+
+
+
+## preview
+![compositeBar](https://github.com/modkavartini/catppuccin/assets/81793953/36d86151-e783-431f-93a3-79394e2c44ea)
+![gridFull](https://github.com/modkavartini/catppuccin/assets/81793953/a4c0b604-58a2-41a8-b2f3-0334e3e266a8)
+=======
 	catppuccin for <a href="https://www.rainmeter.net">rainmeter</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
@@ -47,11 +76,31 @@
 ### also, check out the [wiki](https://github.com/modkavartini/catppuccin/wiki)!
 
 
+>>>>>>> origin/main
 ## screenshots
 ![meneww](https://github.com/modkavartini/catppuccin/assets/81793953/a63cebf5-dde2-4504-bbce-ec28b25b1f27)
 ![pac](https://github.com/modkavartini/catppuccin/assets/81793953/f58d7dc3-0b61-4018-be85-d0e199e14975)
 ![full](https://github.com/modkavartini/catppuccin/assets/81793953/524e3b59-64aa-4da8-bf93-28b441aa10ba)
 
+<<<<<<< HEAD
+### installation
+#### using [MonD](https://github.com/meters-on-demand/cli)
+```ps1
+mond install modkavartini/catppuccin
+```
+#### from releases
+* download and run the latest `.rmskin` from [releases](https://github.com/modkavartini/catppuccin/releases)
+
+### also, check out the [wiki](https://github.com/modkavartini/catppuccin/wiki)!
+
+### to-do:
+- [ ] scale variable
+- [ ] finish wiki
+
+### credits
+* [the catppuccin theme](https://github.com/catppuccin/catppuccin)
+* the rainmeter [discord server](https://discord.gg/rainmeter) (jeff) ♡
+=======
 ## if you likey:
 this suite is completely free! but if you do like it (or me :3) enough to choose to support me,<br>
 you can do so and i will be very grateful to you :D
@@ -69,6 +118,7 @@ you can do so and i will be very grateful to you :D
 ### thanks to 💖
 * [the catppuccin theme](https://github.com/catppuccin/catppuccin)
 * the rainmeter [discord server](https://discord.gg/rainmeter) (esp jeff) ♡
+>>>>>>> origin/main
 * [luatween-for-rainmeter](https://github.com/bluwy/LuaTween-for-Rainmeter) by [bluwy](https://github.com/bluwy)
 #### plugins
 * [appbar](https://github.com/deathcrafter/PluginAppBar) by [deathcrafter](https://github.com/deathcrafter)
@@ -86,6 +136,8 @@ you can do so and i will be very grateful to you :D
 
 #### inspiration:
 * [this](https://discord.com/channels/635612648934735892/635625917623828520/1116071111688474664) showcase posted by [BANanaD3V](https://github.com/BANanaD3V) in the [unixporn](https://www.reddit.com/r/unixporn/) discord server
+<<<<<<< HEAD
+=======
 
 &nbsp;
 
@@ -100,3 +152,4 @@ you can do so and i will be very grateful to you :D
 <p align="center">
 	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
+>>>>>>> origin/main
